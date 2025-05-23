@@ -1,2 +1,2 @@
-# Ótimo trabalho adicionando cabeçalhos ao arquivo ✨
-![Ótimo trabalho adicionando cabeçalhos ao arquivo](https://octodex.github.com/images/yaktocat.png)
+# Ótimo trabalho adicionando cabeçalhos ao arquivo
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
